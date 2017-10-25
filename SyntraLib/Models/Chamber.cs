@@ -35,7 +35,7 @@ namespace Syntra.Models
                 return _price.Value;
             }
             set { _price = value; }
-        }
+        } 
 
         /// <summary>
         /// Get/sets the capasity of the chamber

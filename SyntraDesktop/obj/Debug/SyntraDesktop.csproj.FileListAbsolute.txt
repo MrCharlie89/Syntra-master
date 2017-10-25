@@ -1,0 +1,20 @@
+C:\Users\gertj\OneDrive\Documenten\Syntra West\Programeren\Syntra-master\SyntraDesktop\bin\Debug\Resources\logo syntrawest.jpg
+C:\Users\gertj\OneDrive\Documenten\Syntra West\Programeren\Syntra-master\SyntraDesktop\bin\Debug\SyntraDesktop.exe.config
+C:\Users\gertj\OneDrive\Documenten\Syntra West\Programeren\Syntra-master\SyntraDesktop\bin\Debug\SyntraDesktop.exe
+C:\Users\gertj\OneDrive\Documenten\Syntra West\Programeren\Syntra-master\SyntraDesktop\bin\Debug\SyntraDesktop.pdb
+C:\Users\gertj\OneDrive\Documenten\Syntra West\Programeren\Syntra-master\SyntraDesktop\obj\Debug\SyntraDesktop.csprojResolveAssemblyReference.cache
+C:\Users\gertj\OneDrive\Documenten\Syntra West\Programeren\Syntra-master\SyntraDesktop\obj\Debug\LoginWindow.g.cs
+C:\Users\gertj\OneDrive\Documenten\Syntra West\Programeren\Syntra-master\SyntraDesktop\obj\Debug\MainWindow.g.cs
+C:\Users\gertj\OneDrive\Documenten\Syntra West\Programeren\Syntra-master\SyntraDesktop\obj\Debug\App.g.cs
+C:\Users\gertj\OneDrive\Documenten\Syntra West\Programeren\Syntra-master\SyntraDesktop\obj\Debug\SyntraDesktop_MarkupCompile.cache
+C:\Users\gertj\OneDrive\Documenten\Syntra West\Programeren\Syntra-master\SyntraDesktop\obj\Debug\SyntraDesktop_MarkupCompile.lref
+C:\Users\gertj\OneDrive\Documenten\Syntra West\Programeren\Syntra-master\SyntraDesktop\obj\Debug\LoginWindow.baml
+C:\Users\gertj\OneDrive\Documenten\Syntra West\Programeren\Syntra-master\SyntraDesktop\obj\Debug\MainWindow.baml
+C:\Users\gertj\OneDrive\Documenten\Syntra West\Programeren\Syntra-master\SyntraDesktop\obj\Debug\SyntraDesktop.g.resources
+C:\Users\gertj\OneDrive\Documenten\Syntra West\Programeren\Syntra-master\SyntraDesktop\obj\Debug\SyntraDesktop.Properties.Resources.resources
+C:\Users\gertj\OneDrive\Documenten\Syntra West\Programeren\Syntra-master\SyntraDesktop\obj\Debug\SyntraDesktop.csproj.GenerateResource.Cache
+C:\Users\gertj\OneDrive\Documenten\Syntra West\Programeren\Syntra-master\SyntraDesktop\obj\Debug\SyntraDesktop.csproj.CoreCompileInputs.cache
+C:\Users\gertj\OneDrive\Documenten\Syntra West\Programeren\Syntra-master\SyntraDesktop\obj\Debug\SyntraDesktop.exe
+C:\Users\gertj\OneDrive\Documenten\Syntra West\Programeren\Syntra-master\SyntraDesktop\obj\Debug\SyntraDesktop.pdb
+C:\Users\gertj\OneDrive\Documenten\Syntra West\Programeren\Syntra-master\SyntraDesktop\bin\Debug\SyntraLib.dll
+C:\Users\gertj\OneDrive\Documenten\Syntra West\Programeren\Syntra-master\SyntraDesktop\bin\Debug\SyntraLib.pdb

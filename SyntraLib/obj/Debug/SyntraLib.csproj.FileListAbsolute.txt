@@ -1,0 +1,6 @@
+C:\Users\gertj\OneDrive\Documenten\Syntra West\Programeren\Syntra-master\SyntraLib\bin\Debug\SyntraLib.dll
+C:\Users\gertj\OneDrive\Documenten\Syntra West\Programeren\Syntra-master\SyntraLib\bin\Debug\SyntraLib.pdb
+C:\Users\gertj\OneDrive\Documenten\Syntra West\Programeren\Syntra-master\SyntraLib\obj\Debug\SyntraLib.csproj.CoreCompileInputs.cache
+C:\Users\gertj\OneDrive\Documenten\Syntra West\Programeren\Syntra-master\SyntraLib\obj\Debug\SyntraLib.dll
+C:\Users\gertj\OneDrive\Documenten\Syntra West\Programeren\Syntra-master\SyntraLib\obj\Debug\SyntraLib.pdb
+C:\Users\gertj\OneDrive\Documenten\Syntra West\Programeren\Syntra-master\SyntraLib\obj\Debug\SyntraLib.csprojResolveAssemblyReference.cache
